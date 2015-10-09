@@ -2,6 +2,7 @@
 Connecting multiple regions together via a vpn connection using OpenVPN.
 
 ```
+sudo su
 apt-get update
 apt-get install openswan git -y
 cd /root
