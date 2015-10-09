@@ -4,7 +4,7 @@ Connecting multiple regions together via a vpn connection using OpenVPN.
 ```
 sudo su
 apt-get update
-apt-get install openswan strongswan git -y
+apt-get install strongswan git -y
 cd /root
 git clone https://github.com/andrewpuch/multi_region_vpn_connection.git
 cp multi_region_vpn_connection/ipsec.sh /sbin
@@ -19,4 +19,5 @@ Edit the files according to the tutorial.
 
 ```
 service ipsec restart
+ipsec status
 ```
