@@ -5,6 +5,8 @@ You only need to run these commands on the right side of the VPN. This is the VP
 
 * Note: Make sure that the internal IP blocks are different on both regions. For example in this tutorial my us-east is running on 172.30.0.0/16 and my us-west is running on 172.31.0.0/16
 
+* Installing OpenVPN in AWS https://www.youtube.com/watch?v=VWqRrMGHJQg
+
 ```
 sudo su
 apt-get update
