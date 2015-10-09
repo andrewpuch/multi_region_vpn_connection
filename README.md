@@ -3,7 +3,7 @@ Connecting multiple regions together via a vpn connection using OpenVPN.
 
 You only need to run these commands on the right side of the VPN. This is the VPN you want your connection to go to.
 
-* Note: Make sure that the internal IP blocks are different on both regions. For example in this tutorial my us-east is running on 172.30.0.0/16 and my us-west is running on 172.31.0.0/16*
+* Note: Make sure that the internal IP blocks are different on both regions. For example in this tutorial my us-east is running on 172.30.0.0/16 and my us-west is running on 172.31.0.0/16
 
 ```
 sudo su
