@@ -10,3 +10,9 @@ cp multi_region_vpn_connection/ipsec.sh /sbin
 cp multi_region_vpn_connection/ipsec.secrets /etc
 cp multi_region_vpn_connection/ipsec.conf /etc
 ```
+
+Edit the files according to the tutorial.
+
+```
+service ipsec restart
+```
