@@ -1,6 +1,8 @@
 # Multi Region VPN Connection Using OpenVPN
 Connecting multiple regions together via a vpn connection using OpenVPN.
 
+You only need to run these commands on the left side of the VPN. This is the VPN you normally connect to that you want to be able to navigate to other regions.
+
 ```
 sudo su
 apt-get update
