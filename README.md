@@ -20,6 +20,6 @@ chmod 744 /etc/ipsec.conf
 Edit the files according to the tutorial.
 
 ```
-service ipsec restart
+ipsec restart
 ipsec status
 ```
