@@ -1,5 +1,5 @@
-# Multi Region VPN Connection Using OpenVPN
-Connecting multiple regions together via a vpn connection using OpenVPN.
+# Multi Region VPN Connection Using Strongswan
+Connecting multiple regions together via a vpn connection using Strongswan.
 
 You only need to run these commands on the right side of the VPN. This is the VPN you want your connection to go to.
 
